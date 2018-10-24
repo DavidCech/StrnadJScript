@@ -1,2 +1,0 @@
-# StrnadJScript
-Created with CodeSandbox
